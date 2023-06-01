@@ -1,3 +1,5 @@
+//My name is Leonard Mercedes
+
 import { RecoilRoot } from 'recoil'
 import { RedStripe } from './RedStripe'
 import { BlueStripe } from './BlueStripe'
